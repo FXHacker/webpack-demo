@@ -1,2 +1,2 @@
 import "../assets/css/normalize.css";
-console.log(4);
+console.log(6);
